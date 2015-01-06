@@ -1,0 +1,4 @@
+coreFrame
+=========
+
+Common Research Framework
