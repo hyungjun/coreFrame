@@ -13,6 +13,7 @@ from numpy          import dtype as DType
 from cf.TimeSeries  import TSData,det_delT
 
 from gt_hdr         import __gtHdr__
+from gt_hdr         import __gtHdrFmt__
 
 
 class __gtVar__(object):
